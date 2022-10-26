@@ -1,5 +1,5 @@
 body{
-    background:rgb(160, 160, 255);
+    background:rgb(136, 136, 254);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -17,17 +17,13 @@ body{
     border:3px solid black;
 }
 
-.assainment img:hover{
+.assignment img:hover{
     border:3px solid whitesmoke;
 }
 
 h1{
     color:black;
     text-align: center;
-}
-
-h1:hover{
-    color:whitesmoke;
 }
 
 a{
